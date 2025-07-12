@@ -22,15 +22,15 @@ The dataset used is HR_capstone_dataset.csv, which includes features related to:
 5. Visualized correlations, feature distributions, and attrition patterns
 6. Modeling
 7. Built and evaluated multiple classifiers:
-   Logistic Regression
-   Decision Tree
-   Random Forest
-   XGBoost
+   Logistic Regression, 
+   Decision Tree, 
+   Random Forest, 
+   XGBoost, 
 8. Evaluation Metrics
-   Accuracy
-   F1-Score
-   Precision
-   Recall
+   Accuracy, 
+   F1-Score, 
+   Precision, 
+   Recall, 
    Confusion Matrix visualization
 9. Model Tuning
 
